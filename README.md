@@ -2,9 +2,14 @@
 So i have this drone that i have had for a very long time. I recieved it without a controller, so it was basically a uselss drone. I played with it previously and tried to connect all 4 motors to 5v to see if it would fly, but ofc it wouldnt stablilize and all that. Today i know that i need a specific IMU snesor using the gyroscope to determing how the drone is positioned, and then it would send this signal to a chip that would control the current or power recieved by each motor to stabilize the drone. This is what i have planned to make in this project, and it would be slightly more complex than a normal drone controller, as i need to add motor controllers as well because my drone has bruhless motors.
 
 
-## Schematics:
+## Schematics for controller:
 
 <img width="782" height="587" alt="image" src="https://github.com/user-attachments/assets/c8b1d064-0981-471a-983e-e8476217845e" />
+
+## Schematics for remote:
+
+<img width="771" height="535" alt="Screenshot 2026-07-21 at 15 13 31" src="https://github.com/user-attachments/assets/3d9a0105-d77b-4750-8dac-c18a782edbc4" />
+
 
 
 ## PCB:
