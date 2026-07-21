@@ -12,14 +12,21 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 
 
-## PCB:
+## PCB for controller:
 
 <img width="633" height="523" alt="image" src="https://github.com/user-attachments/assets/dbc9fdcf-594f-46da-aa64-2267f08ba6fa" />
 
+## PCB for remote:
+<img width="602" height="410" alt="Screenshot 2026-07-21 at 17 51 12" src="https://github.com/user-attachments/assets/d7d83a93-2f8f-4294-a440-ee04e7eb6517" />
 
-## 3d shape:
+
+
+## 3d shape for controller:
 
 <img width="746" height="603" alt="Screenshot 2026-07-12 at 15 29 26" src="https://github.com/user-attachments/assets/919982b8-6f9a-42d4-aa34-79a0e89e50ec" />
+
+## 3d shape for remote:
+<img width="700" height="461" alt="Screenshot 2026-07-21 at 17 53 04" src="https://github.com/user-attachments/assets/c21ac033-7a57-4ed4-b6de-bc995d661283" />
 
 
 ## BOM:
