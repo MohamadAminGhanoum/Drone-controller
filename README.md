@@ -4,7 +4,8 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 ## Schematics for controller:
 
-<img width="782" height="587" alt="image" src="https://github.com/user-attachments/assets/c8b1d064-0981-471a-983e-e8476217845e" />
+<img width="752" height="546" alt="Screenshot 2026-07-31 at 09 20 18" src="https://github.com/user-attachments/assets/00b1bbcd-7553-4373-8d95-ee67acfd96d9" />
+
 
 ## Schematics for remote:
 
@@ -14,7 +15,8 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 ## PCB for controller:
 
-<img width="633" height="523" alt="image" src="https://github.com/user-attachments/assets/dbc9fdcf-594f-46da-aa64-2267f08ba6fa" />
+<img width="612" height="490" alt="Screenshot 2026-07-31 at 08 49 26" src="https://github.com/user-attachments/assets/ee080a23-1824-49c8-9810-7e19fb808ae7" />
+
 
 ## PCB for remote:
 <img width="602" height="410" alt="Screenshot 2026-07-21 at 17 51 12" src="https://github.com/user-attachments/assets/d7d83a93-2f8f-4294-a440-ee04e7eb6517" />
