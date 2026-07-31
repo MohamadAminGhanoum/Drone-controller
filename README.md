@@ -4,7 +4,8 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 ## Schematics for controller:
 
-<img width="752" height="546" alt="Screenshot 2026-07-31 at 09 20 18" src="https://github.com/user-attachments/assets/00b1bbcd-7553-4373-8d95-ee67acfd96d9" />
+<img width="746" height="572" alt="Screenshot 2026-07-31 at 11 30 57" src="https://github.com/user-attachments/assets/5d77e55d-fce3-4331-acd2-e7bb7f6b3369" />
+
 
 
 ## Schematics for remote:
@@ -15,7 +16,7 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 ## PCB for controller:
 
-<img width="612" height="490" alt="Screenshot 2026-07-31 at 08 49 26" src="https://github.com/user-attachments/assets/ee080a23-1824-49c8-9810-7e19fb808ae7" />
+<img width="691" height="540" alt="Screenshot 2026-07-31 at 11 31 32" src="https://github.com/user-attachments/assets/16da6e76-fa91-45b0-8052-30227fe132b5" />
 
 
 ## PCB for remote:
@@ -26,7 +27,8 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 ## 3d shape for controller:
 
-<img width="746" height="603" alt="Screenshot 2026-07-12 at 15 29 26" src="https://github.com/user-attachments/assets/919982b8-6f9a-42d4-aa34-79a0e89e50ec" />
+<img width="685" height="545" alt="Screenshot 2026-07-31 at 11 32 03" src="https://github.com/user-attachments/assets/464f4d62-85d0-4846-abc4-4f7c7bd48de2" />
+
 
 ## 3d shape for remote:
 <img width="700" height="461" alt="Screenshot 2026-07-21 at 17 53 04" src="https://github.com/user-attachments/assets/c21ac033-7a57-4ed4-b6de-bc995d661283" />
