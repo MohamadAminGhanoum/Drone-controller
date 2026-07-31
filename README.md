@@ -9,7 +9,7 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 ## Schematics for remote:
 
-<img width="771" height="535" alt="Screenshot 2026-07-21 at 15 13 31" src="https://github.com/user-attachments/assets/3d9a0105-d77b-4750-8dac-c18a782edbc4" />
+<img width="650" height="456" alt="Screenshot 2026-07-31 at 09 31 23" src="https://github.com/user-attachments/assets/e2200e8d-5185-4039-b8b5-e936247b6bea" />
 
 
 
@@ -19,7 +19,8 @@ So i have this drone that i have had for a very long time. I recieved it without
 
 
 ## PCB for remote:
-<img width="602" height="410" alt="Screenshot 2026-07-21 at 17 51 12" src="https://github.com/user-attachments/assets/d7d83a93-2f8f-4294-a440-ee04e7eb6517" />
+
+<img width="392" height="250" alt="Screenshot 2026-07-31 at 09 32 18" src="https://github.com/user-attachments/assets/59ccacbf-830b-480e-a1b9-d46490cd51ea" />
 
 
 
